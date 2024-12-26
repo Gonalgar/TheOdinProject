@@ -1,8 +1,12 @@
 body {
     font-family: 'Roboto';
     margin: 0;
+}
+
+.main{
     padding: 0 150px;
-    color: #FAF9F8;
+    flex-direction: column;
+    gap: 50px;
     background-color: #1F2937;
 }
 
@@ -58,4 +62,53 @@ body {
     border-radius: 10px;
     font-size: 18px;
     cursor: pointer;
+}
+
+.section-2 {
+    padding: 0 150px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 0;
+    gap: 50px;
+    height: 600px;
+    color: #1F2937;
+}
+
+.section-2-text h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    margin-bottom: 50px;
+}
+
+.images-with-subheadings {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 40px;
+}
+
+.image-with-subheading {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.image-with-subheading h3 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.image-reason img{
+    width: 120px;
+    height: auto;
+}
+
+.reason-subtext {
+    font-size: 16px;
+    color: #1F2937;
 }

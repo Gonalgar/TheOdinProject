@@ -11,7 +11,7 @@ This is a simple **Landing Page** project built as part of [The Odin Project](ht
 
 ## Project Preview
 
-![Landing Page Screenshot](landing_page\SkillSprout-screenshot.jpeg) 
+![Landing Page Screenshot](.\landing_page\SkillSprout-screenshot.jpeg) 
 
 ## Technologies Used
 

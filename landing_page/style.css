@@ -170,3 +170,12 @@ body {
     font-size: 18px;
     cursor: pointer;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 150px;
+    background-color: #1F2937;
+    color: #FAF9F8;
+}

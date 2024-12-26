@@ -137,3 +137,36 @@ body {
     font-weight: bold;
     color: #1F2937;
 }
+
+.section-4 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 100px 250px;
+    padding: 10px 20px;
+    background-color: #05953a;
+    color: #FAF9F8;
+    border-radius: 10px;
+}
+
+.call-to-action h2 {
+    margin-bottom: 0px;
+    gap: 0px;
+}
+
+.call-to-action p {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.cta-button {
+    padding: 10px 30px;
+    color: #FAF9F8;
+    font-weight: bold;
+    background-color: #05953a;
+    border: solid 2px #FAF9F8;
+    border-radius: 10px;
+    font-size: 18px;
+    cursor: pointer;
+}

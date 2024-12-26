@@ -9,6 +9,10 @@ This is a simple **Landing Page** project built as part of [The Odin Project](ht
 - Consistent design and color scheme to enhance user experience.
 - Organized codebase with semantic HTML.
 
+## Live Preview
+
+Check out the live version of the project here: [Live Preview](https://gonalgar.github.io/landing-page/landing_page/index.html)  
+
 ## Project Preview
 
 ![Landing Page Screenshot](landing_page/SkillSprout-screenshot.jpeg) 
